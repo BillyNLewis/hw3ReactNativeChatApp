@@ -5,6 +5,7 @@
 # To run app
   - cd into directory you want to download to
   - git clone https://github.com/BillyNLewis/hw3ReactNativeChatApp.git
+  - cd hw3ReactNativeChatApp
   - npm install
   - npm start
   - run IOS simulator
