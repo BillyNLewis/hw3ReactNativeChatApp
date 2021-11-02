@@ -7,5 +7,5 @@
   - npm start
   - run IOS simulator
 
-![Screen Shot 2021-11-01 at 11 31 11 PM](https://user-images.githubusercontent.com/55251651/139782736-59638f33-8650-4aed-9487-a4354aa64610.png)
+![Screen Shot 2021-11-01 at 11 36 51 PM](https://user-images.githubusercontent.com/55251651/139783032-0ed02700-ae77-4ad6-9075-17637383ac75.png)
 
