@@ -3,7 +3,7 @@
  - Includes chat space, user login, started conversations, user search, conversation ranking, user profile
 
 # To run app
-  - cd <directory you want to download to>
+  - cd into directory you want to download to
   - git clone https://github.com/BillyNLewis/hw3ReactNativeChatApp.git
   - npm install
   - npm start
